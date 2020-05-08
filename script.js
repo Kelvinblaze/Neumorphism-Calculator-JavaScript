@@ -1,4 +1,4 @@
-gsap.from('.container', {duration: 2, opacity: 0, stagger: 0.5, y: 500});
+// gsap.from('.container', {duration: 2, opacity: 0, stagger: 0.5, y: 500});
 
 let btns = document.querySelectorAll(".num-button");
 let allBtns = document.querySelectorAll(".button");
